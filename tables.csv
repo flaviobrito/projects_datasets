@@ -1,0 +1,3 @@
+table,database,column,test,isactive
+dimpage,BIDW,sk_dimpage,notnulltest,1
+dimclient,BIDW,sk_dimclient,notnulltest,1
